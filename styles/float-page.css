@@ -10,3 +10,19 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.float-left {
+	float: left;
+	margin-bottom: 20px; 
+	margin-right: 20px;
+	width: 325px;
+	height: auto;
+}
+
+.float-right {
+	float: right;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	width: 325px;
+	height: auto;
+}
