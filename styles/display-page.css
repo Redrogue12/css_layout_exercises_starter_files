@@ -3,6 +3,8 @@ main {
 	height: 500px;
 	font-size: 0;
 	margin: 60px;
+	margin-left: auto;
+ 	margin-right: auto;
 }
 
 main div {
