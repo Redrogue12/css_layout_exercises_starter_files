@@ -1,6 +1,5 @@
 body {
-	background: 
-		url(../images/outerspace_landscape.jpeg);
+	background: url(../images/outerspace_landscape.jpeg);
 	background-size: cover;
 }
 
@@ -32,4 +31,30 @@ nav ul li {
 li:after {
 	content: "|";
 	margin-left: 3px;
+}
+
+div.green_box {
+	border: 10px dotted green;
+	width: 600px;
+	height: 300px;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+}
+
+div.green_box img {
+	width: 200px;
+	height:200px;
+}
+
+.spacecat {
+	position: relative;
+	left: -100px;
+	top: -100px;
+}
+
+.spacedog {
+	position: relative;
+	left: 280px;
+	top: 150px;
 }
