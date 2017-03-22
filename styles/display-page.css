@@ -1,0 +1,45 @@
+main {
+	width: 800px;
+	height: 500px;
+	font-size: 0;
+	margin: 60px;
+}
+
+main div {
+	border: 1px solid black;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.top {
+	
+	width: 50%;
+	height: 200px;
+}
+
+.bottom {
+	width: 33.33%;
+	height: 300px;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.mustard {
+	background-color: #F3A633;
+}
